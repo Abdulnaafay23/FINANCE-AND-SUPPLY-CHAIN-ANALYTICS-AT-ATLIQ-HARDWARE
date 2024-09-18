@@ -1,8 +1,5 @@
 # FINANCE-AND-SUPPLY-CHAIN-ANALYTICS-AT-ATLIQ-HARDWARE
 
-** [Project PRESENTATION](file:///C:/Users/HP/Downloads/FINANCE%20AND%20SUPPLY%20CHAIN%20ANALYTICS%20AT%20ATLIQ%20HARDWARE.pdf)
-
-
 ## 🔶Project Overview
 
 This project focused on leveraging SQL to analyze datasets from AtliQ Hardware, aiming to derive actionable insights into sales trends, market dynamics, customer behaviors, and supply chain forecasting.
