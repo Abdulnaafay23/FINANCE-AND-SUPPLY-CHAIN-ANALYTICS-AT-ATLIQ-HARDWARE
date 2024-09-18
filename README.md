@@ -15,6 +15,7 @@ To address performance bottlenecks caused by large Excel files, we utilized MySQ
 
 - **MySQL**: For querying and transforming raw data.
 - **Excel**: For data preprocessing and visualization.
+- **PowerPoint**: For presentation.
 
 ## 🔶Key Business Insights
 
